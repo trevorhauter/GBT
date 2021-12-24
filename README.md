@@ -1,10 +1,10 @@
 # GBT
 A neat repo for neat people :) (Gianni Bryan Trevor)
 
-Below is a buunch of instructions on everything you need for python development on Ubuntu using virtual box. I'm going to lay out the steps and helpful information, and I'll probably put a bunch of links for trouble shooting at the bottom, so if you have trouble on any of the steps look down there.
+Below is a bunch of instructions on everything you need for python development on Ubuntu using virtual box. I'm going to lay out the steps and helpful information, and I'll probably put a bunch of links for trouble shooting at the bottom, so if you have trouble on any of the steps look down there.
 
-# Installing setting up virtualbox and Linux
-Go here for a good tutorial on how to set up virtualbox with the latest version of Ubuntu
+# Installing and setting up virtualbox with Ubuntu (Linux)
+Go here for a good tutorial on how to set up virtualbox with the latest version of Ubuntu, our preferred flavor of linux
 - https://www.wikihow.com/Install-Ubuntu-on-VirtualBox
 
 Next, you need to install guest additions, it just helps you be able to fullscreen the virtual machine as well as helps with performace. I think this should tell you how to get it
@@ -131,3 +131,9 @@ git push origin branch_name # pushes the commit to the repository
 
 git pull # pulls in changes that have been pushed to github
 ```
+
+# Random help links
+- [Python style guide (pep 8)](https://www.python.org/dev/peps/pep-0008/#a-foolish-consistency-is-the-hobgoblin-of-little-minds)
+- [Using geckodriver with linux](https://askubuntu.com/questions/870530/how-to-install-geckodriver-in-ubuntu)
+- [Virtual environments in python](https://uoa-eresearch.github.io/eresearch-cookbook/recipe/2014/11/26/python-virtual-env/)
+- [Aliases in linux/ubuntu](https://unix.stackexchange.com/questions/215948/how-to-make-an-alias-permanent) (FYI: we use bash)
