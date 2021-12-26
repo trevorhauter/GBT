@@ -31,11 +31,19 @@ ls # lists files and directories
 
 ls -a # lists all the files and directories (including hidden). Helpful for finding .gitignore
 
-cd # change directory
 
-cd - # go back to previous directory
+    To navigate into the root directory, use "cd /"
+    To navigate to your home directory, use "cd" or "cd ~"
+    To navigate up one directory level, use "cd .."
+    To navigate to the previous directory (or back), use "cd -"
 
-cd -- # goes back to root directory
+cd / # navigate to the root directory
+
+cd or cd ~ # navigate to your home directory
+
+cd .. # navigate up one directory level, use
+
+cd - # navigate to the previous directory (or back)
 
 mkdir dirname # creates a directory
 
