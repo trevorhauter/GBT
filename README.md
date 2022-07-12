@@ -6,7 +6,7 @@ Below is a bunch of instructions on everything you need for python development o
 # Installing and setting up virtualbox with Ubuntu (Linux)
 1. Go [here](https://www.wikihow.com/Install-Ubuntu-on-VirtualBox) for a good tutorial on how to set up virtualbox with the latest version of Ubuntu, our preferred flavor of linux
 
-2. Now you need to [install guest additions](https://linuxize.com/post/how-to-install-virtualbox-guest-additions-in-ubuntu/), it just helps you be able to fullscreen the virtual machine as well as helps with performace. If that isn't helpful, go [here](https://www.nakivo.com/blog/make-virtualbox-full-screen/) (be sure to go to the linux section) and let me know so I can switch these links around. (Note: the sudo user in linux is just like an admin)
+2. Now you need to [install guest additions](https://www.nakivo.com/blog/make-virtualbox-full-screen/), it just helps you be able to fullscreen the virtual machine as well as helps with performace. If that isn't helpful, go [here](https://linuxize.com/post/how-to-install-virtualbox-guest-additions-in-ubuntu/) (be sure to go to the linux section) and let me know so I can switch these links around. (Note: the sudo user in linux is just like an admin)
 
 3. (optional) If you want to try speeding up your VM, take a look at [this](http://www.rawinfopages.com/tips/2017/07/speed-up-virtualbox-in-windows/)
 
